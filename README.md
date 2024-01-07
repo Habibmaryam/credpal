@@ -7,13 +7,13 @@ CredPal, a Lagos-based fintech, specializes in point-of-sale credit infrastructu
 ---
 # Business questions
 
-To identify the highest and lowest income levels by region
-To identify the highest and lowest disposable income levels by region
-To identify the highest and lowest total expenditure by region
-To identify the region with the highest average monthly expenditure
-To identify the region with the highest monthly expenditure
-To determine the saving capability of consumers by region
-To identify the consumption preferences of consumers
+- To identify the highest and lowest income levels by region
+- To identify the highest and lowest disposable income levels by region
+- To identify the highest and lowest total expenditure by region
+- To identify the region with the highest average monthly expenditure
+- To identify the region with the highest monthly expenditure
+- To determine the saving capability of consumers by region
+- To identify the consumption preferences of consumers
 
 ---
 # Data cleaning and transformation
